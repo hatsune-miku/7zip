@@ -1,0 +1,6 @@
+Build output (local)
+---------------------
+
+Windows x64 standalone binary:
+- /workspace/7zip/7z.exe (copy of CPP/7zip/Bundles/Alone2/_o/7zz.exe)
+
